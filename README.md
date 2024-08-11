@@ -1,7 +1,7 @@
 ## 최명규
 DevOps Engineer, I work mainly with AWS and Kubernetes, and I'm learning Scala in my free time.
 
-- 🔭 I’m currently working on 토스증권
+- 🔭 I’m currently working on Toss
 - 🌱 I’m currently learning scala
 <!--
 **bench87/bench87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
